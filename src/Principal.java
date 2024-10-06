@@ -1,3 +1,5 @@
+import Records.Pokemon;
+
 import java.io.IOException;
 import java.util.Scanner;
 
